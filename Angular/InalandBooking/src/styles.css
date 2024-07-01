@@ -1,0 +1,274 @@
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&family=Great+Vibes&display=swap');
+
+/* Καθορισμός του γενικού στυλ για την ιστοσελίδα */
+html {
+  height: 100%;
+  box-sizing: border-box;
+}
+
+body {
+  padding-top: 80px; /* Απόσταση από την κορυφή της σελίδας */
+  height: 100%;
+  font-family: 'Poiret One', cursive; /* Χρήση της γραμματοσειράς Poiret One */
+  background-color: #f9f9f9; /* Χρώμα φόντου */
+}
+
+/* Στυλ της κεφαλίδας */
+header {
+  background-color: #e5e7eb;
+  padding: 20px;
+  border-bottom: 1px solid #ddd;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.3s ease;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 48px;
+  font-family: 'Great Vibes', cursive; /* Χρήση της γραμματοσειράς Great Vibes για τον τίτλο */
+  font-weight: bold;
+  color: #242320;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  transition: color 0.6s ease, text-shadow 0.6s ease;
+}
+
+header:hover {
+  box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+}
+
+header:hover h1 {
+  color: #2a066e;
+  text-shadow: 4px 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+header nav {
+  margin-top: 15px;
+}
+
+header nav a {
+  font-size: 20px;
+  color: #1b351c;
+  text-decoration: none;
+  margin: 0 15px;
+  padding: 8px 15px;
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: color 0.3s ease, background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+header nav a:hover {
+  color: #304931;
+  background-color: rgba(255, 255, 255, 1);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+/* Στυλ του carousel */
+.carousel {
+  position: relative;
+  max-width: 800px;
+  margin: auto;
+  overflow: hidden;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.carousel-inner {
+  display: flex;
+  overflow: hidden; /* Αποκρυπτογράφηση της εικόνας */
+}
+
+.carousel-item {
+  min-width: 100%;
+  transition: transform 0.6s ease;
+  overflow: hidden;
+}
+
+.carousel-item img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  transform: scale(1); /* Προεπιλεγμένη κλίμακα */
+}
+
+.carousel-item.active {
+  transform: translateX(0%);
+}
+
+.carousel-item.next {
+  transform: translateX(100%);
+}
+
+.carousel-item.prev {
+  transform: translateX(-100%);
+}
+
+.carousel-controls {
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.carousel-controls span {
+  font-size: 24px;
+  cursor: pointer;
+  margin: 0 10px;
+  color: #1a1818;
+}
+
+.carousel-bullets {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.carousel-bullets span {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  background-color: #ccc;
+  border-radius: 50%;
+  margin: 0 5px;
+  cursor: pointer;
+}
+
+.carousel-bullets .active {
+  background-color: #2a066e;
+}
+
+/* Στυλ του footer */
+footer {
+  background-color: #95a1a1;
+  padding: 20px;
+  text-align: center;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.contact-info {
+  color: #242320;
+  font-weight: bold;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+}
+
+.social-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.social-links a {
+  margin: 0 5px;
+  text-decoration: none;
+  color: #cef0e8;
+}
+
+.social-links img {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  transition: transform 0.3s ease, border-radius 0.3s ease;
+}
+
+.social-links img:hover {
+  transform: rotate(360deg);
+  border-radius: 15%;
+}
+
+/* Στυλ για το Σχετικά με Εμάς */
+.about-container {
+  padding: 20px;
+  max-width: 800px;
+  margin: auto;
+  background-color: #f9f9f9; /* Απαλό φόντο για το κοντέινερ */
+  border-radius: 10px; /* Στρογγυλεμένες γωνίες */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Ελαφριά σκιά */
+}
+
+.animated-title {
+  font-family: 'Great Vibes', cursive;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  animation: fadeInUp 2s ease-in-out;
+  text-align: center;
+  color: #4CAF50;
+}
+
+.about-container h2 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+.about-section {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  animation: fadeInUp 1.5s ease-in-out;
+}
+
+.about-container p {
+  font-size: 1.2rem;
+  line-height: 1.6;
+  color: #666;
+  text-align: justify;
+  margin: 0;
+  flex: 1;
+}
+
+.about-container img {
+  max-width: 200px;
+  height: auto;
+  margin-left: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  animation: fadeIn 2s ease-in-out;
+}
+
+.about-figure {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0;
+  text-align: center;
+}
+
+.about-container figcaption {
+  font-size: 1.5rem;
+  color: #4CAF50;
+  margin-top: 10px;
+  font-family: 'Great Vibes', cursive;
+  animation: fadeInUp 2s ease-in-out;
+}
+
+.team-description {
+  margin-top: 10px;
+  font-size: 1rem;
+  color: #555;
+  text-align: center;
+  max-width: 200px;
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
