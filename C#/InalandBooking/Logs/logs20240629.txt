@@ -1,0 +1,36 @@
+[29-06-2024 16:48:23356 +03:00 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager ] User profile is available. Using '"C:\Users\ina_z\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+[29-06-2024 16:48:24163 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "https://localhost:5000"
+[29-06-2024 16:48:24164 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "http://localhost:5001"
+[29-06-2024 16:48:24168 +03:00 Microsoft.Hosting.Lifetime ] Application started. Press Ctrl+C to shut down.
+[29-06-2024 16:48:24169 +03:00 Microsoft.Hosting.Lifetime ] Hosting environment: "Development"
+[29-06-2024 16:48:24171 +03:00 Microsoft.Hosting.Lifetime ] Content root path: "C:\Users\ina_z\source\repos\InalandBooking\"
+[29-06-2024 16:48:28235 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/ - -
+[29-06-2024 16:48:28663 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[29-06-2024 16:48:28753 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "InalandBooking.Controllers.HomeController" ("InalandBooking").
+[29-06-2024 16:48:28794 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Index".
+[29-06-2024 16:48:29132 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Index" executed in 357.0168ms.
+[29-06-2024 16:48:29148 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "InalandBooking.Controllers.HomeController.Index (InalandBooking)" in 391.0709ms
+[29-06-2024 16:48:29152 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[29-06-2024 16:48:29173 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/lib/bootstrap/dist/css/bootstrap.min.css - -
+[29-06-2024 16:48:29176 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/lib/bootstrap/dist/js/bootstrap.bundle.min.js - -
+[29-06-2024 16:48:29174 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[29-06-2024 16:48:29296 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/js/site.js - -
+[29-06-2024 16:48:29312 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 137.5302ms
+[29-06-2024 16:48:29296 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/ - - - 200 - text/html;+charset=utf-8 948.5219ms
+[29-06-2024 16:48:29175 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/lib/jquery/dist/jquery.min.js - -
+[29-06-2024 16:48:29174 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/css/site.css - -
+[29-06-2024 16:48:29314 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_vs/browserLink - -
+[29-06-2024 16:48:29323 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] The file "/js/site.js" was not modified
+[29-06-2024 16:48:29323 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] The file "/lib/bootstrap/dist/css/bootstrap.min.css" was not modified
+[29-06-2024 16:48:29353 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/lib/bootstrap/dist/css/bootstrap.min.css - - - 304 - text/css 179.5263ms
+[29-06-2024 16:48:29345 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] The file "/lib/jquery/dist/jquery.min.js" was not modified
+[29-06-2024 16:48:29346 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] The file "/css/site.css" was not modified
+[29-06-2024 16:48:29352 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/js/site.js - - - 304 - application/javascript 55.9190ms
+[29-06-2024 16:48:29323 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] The file "/lib/bootstrap/dist/js/bootstrap.bundle.min.js" was not modified
+[29-06-2024 16:48:29364 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/lib/jquery/dist/jquery.min.js - - - 304 - application/javascript 189.2227ms
+[29-06-2024 16:48:29366 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/css/site.css - - - 304 - text/css 191.8707ms
+[29-06-2024 16:48:29368 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/lib/bootstrap/dist/js/bootstrap.bundle.min.js - - - 304 - application/javascript 192.4665ms
+[29-06-2024 16:48:29504 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 189.8424ms
+[29-06-2024 16:48:29733 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/1.1 GET https://localhost:5000/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map - -
+[29-06-2024 16:48:29821 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] Sending file. Request path: '"/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"'. Physical path: '"C:\Users\ina_z\source\repos\InalandBooking\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map"'
+[29-06-2024 16:48:29839 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/1.1 GET https://localhost:5000/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map - - - 200 327261 text/plain 105.6831ms

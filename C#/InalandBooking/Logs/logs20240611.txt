@@ -1,0 +1,16 @@
+[11-06-2024 18:33:19575 +03:00 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager ] User profile is available. Using '"C:\Users\ina_z\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+[11-06-2024 18:33:19848 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "https://localhost:5000"
+[11-06-2024 18:33:19849 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "http://localhost:5001"
+[11-06-2024 18:33:19854 +03:00 Microsoft.Hosting.Lifetime ] Application started. Press Ctrl+C to shut down.
+[11-06-2024 18:33:19855 +03:00 Microsoft.Hosting.Lifetime ] Hosting environment: "Production"
+[11-06-2024 18:33:19857 +03:00 Microsoft.Hosting.Lifetime ] Content root path: "C:\Users\ina_z\source\repos\InalandBookings\"
+[11-06-2024 18:33:22328 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/ - -
+[11-06-2024 18:33:22592 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/ - - - 404 0 - 270.3921ms
+[11-06-2024 18:33:36805 +03:00 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager ] User profile is available. Using '"C:\Users\ina_z\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+[11-06-2024 18:33:37061 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "https://localhost:5000"
+[11-06-2024 18:33:37062 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "http://localhost:5001"
+[11-06-2024 18:33:37066 +03:00 Microsoft.Hosting.Lifetime ] Application started. Press Ctrl+C to shut down.
+[11-06-2024 18:33:37068 +03:00 Microsoft.Hosting.Lifetime ] Hosting environment: "Production"
+[11-06-2024 18:33:37070 +03:00 Microsoft.Hosting.Lifetime ] Content root path: "C:\Users\ina_z\source\repos\InalandBookings\"
+[11-06-2024 18:33:38040 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/ - -
+[11-06-2024 18:33:38231 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/ - - - 404 0 - 197.4663ms

@@ -1,0 +1,34 @@
+[06-06-2024 19:28:22362 +03:00 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager ] User profile is available. Using '"C:\Users\ina_z\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+[06-06-2024 19:28:22709 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "https://localhost:5000"
+[06-06-2024 19:28:22711 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "http://localhost:5001"
+[06-06-2024 19:28:22716 +03:00 Microsoft.Hosting.Lifetime ] Application started. Press Ctrl+C to shut down.
+[06-06-2024 19:28:22718 +03:00 Microsoft.Hosting.Lifetime ] Hosting environment: "Development"
+[06-06-2024 19:28:22720 +03:00 Microsoft.Hosting.Lifetime ] Content root path: "C:\Users\ina_z\source\repos\InalandBooking\"
+[06-06-2024 19:28:25014 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/ - -
+[06-06-2024 19:28:25483 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/ - - - 404 0 - 472.7934ms
+[06-06-2024 19:28:31583 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/ - -
+[06-06-2024 19:28:31598 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/ - - - 404 0 - 16.1278ms
+[06-06-2024 19:29:00485 +03:00 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager ] User profile is available. Using '"C:\Users\ina_z\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+[06-06-2024 19:29:00794 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "https://localhost:5000"
+[06-06-2024 19:29:00795 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "http://localhost:5001"
+[06-06-2024 19:29:00800 +03:00 Microsoft.Hosting.Lifetime ] Application started. Press Ctrl+C to shut down.
+[06-06-2024 19:29:00802 +03:00 Microsoft.Hosting.Lifetime ] Hosting environment: "Development"
+[06-06-2024 19:29:00805 +03:00 Microsoft.Hosting.Lifetime ] Content root path: "C:\Users\ina_z\source\repos\InalandBooking\"
+[06-06-2024 19:29:02355 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/ - -
+[06-06-2024 19:29:02698 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/ - - - 404 0 - 354.6628ms
+[06-06-2024 19:30:14940 +03:00 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager ] User profile is available. Using '"C:\Users\ina_z\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+[06-06-2024 19:30:15422 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "https://localhost:5000"
+[06-06-2024 19:30:15424 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "http://localhost:5001"
+[06-06-2024 19:30:15429 +03:00 Microsoft.Hosting.Lifetime ] Application started. Press Ctrl+C to shut down.
+[06-06-2024 19:30:15431 +03:00 Microsoft.Hosting.Lifetime ] Hosting environment: "Development"
+[06-06-2024 19:30:15432 +03:00 Microsoft.Hosting.Lifetime ] Content root path: "C:\Users\ina_z\source\repos\InalandBooking\"
+[06-06-2024 19:30:19695 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/ - -
+[06-06-2024 19:30:19987 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/ - - - 404 0 - 297.3249ms
+[06-06-2024 19:34:12887 +03:00 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager ] User profile is available. Using '"C:\Users\ina_z\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+[06-06-2024 19:34:13212 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "https://localhost:5000"
+[06-06-2024 19:34:13214 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "http://localhost:5001"
+[06-06-2024 19:34:13218 +03:00 Microsoft.Hosting.Lifetime ] Application started. Press Ctrl+C to shut down.
+[06-06-2024 19:34:13219 +03:00 Microsoft.Hosting.Lifetime ] Hosting environment: "Development"
+[06-06-2024 19:34:13220 +03:00 Microsoft.Hosting.Lifetime ] Content root path: "C:\Users\ina_z\source\repos\InalandBooking\"
+[06-06-2024 19:34:14729 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/ - -
+[06-06-2024 19:34:15113 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/ - - - 404 0 - 380.0145ms

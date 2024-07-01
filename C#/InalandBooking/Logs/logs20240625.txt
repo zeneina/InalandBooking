@@ -1,0 +1,876 @@
+[25-06-2024 09:55:43120 +03:00 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager ] User profile is available. Using '"C:\Users\ina_z\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+[25-06-2024 09:55:43898 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "https://localhost:5000"
+[25-06-2024 09:55:43899 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "http://localhost:5001"
+[25-06-2024 09:55:43905 +03:00 Microsoft.Hosting.Lifetime ] Application started. Press Ctrl+C to shut down.
+[25-06-2024 09:55:43906 +03:00 Microsoft.Hosting.Lifetime ] Hosting environment: "Production"
+[25-06-2024 09:55:43908 +03:00 Microsoft.Hosting.Lifetime ] Content root path: "C:\Users\ina_z\Desktop\InalandBookings\"
+[25-06-2024 09:55:48140 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/ - -
+[25-06-2024 09:55:48509 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/ - - - 404 0 - 376.3517ms
+[25-06-2024 10:47:47907 +03:00 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager ] User profile is available. Using '"C:\Users\ina_z\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+[25-06-2024 10:47:48298 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "https://localhost:7037"
+[25-06-2024 10:47:48299 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "http://localhost:5293"
+[25-06-2024 10:47:48304 +03:00 Microsoft.Hosting.Lifetime ] Application started. Press Ctrl+C to shut down.
+[25-06-2024 10:47:48306 +03:00 Microsoft.Hosting.Lifetime ] Hosting environment: "Development"
+[25-06-2024 10:47:48307 +03:00 Microsoft.Hosting.Lifetime ] Content root path: "C:\Users\ina_z\source\repos\InalandBooking\"
+[25-06-2024 10:47:49909 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:7037/ - -
+[25-06-2024 10:47:50222 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 10:47:50292 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "InalandBooking.Controllers.HomeController" ("InalandBooking").
+[25-06-2024 10:47:50318 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Index".
+[25-06-2024 10:47:50497 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Index" executed in 184.7346ms.
+[25-06-2024 10:47:50503 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "InalandBooking.Controllers.HomeController.Index (InalandBooking)" in 207.2619ms
+[25-06-2024 10:47:50505 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 10:47:50523 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:7037/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 10:47:50533 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:7037/ - - - 200 - text/html;+charset=utf-8 630.9227ms
+[25-06-2024 10:47:50533 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:7037/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 8.6922ms
+[25-06-2024 10:47:50567 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:7037/_vs/browserLink - -
+[25-06-2024 10:47:50969 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:7037/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 401.9194ms
+[25-06-2024 10:47:50981 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/1.1 GET https://localhost:7037/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map - -
+[25-06-2024 10:47:51043 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] Sending file. Request path: '"/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"'. Physical path: '"C:\Users\ina_z\source\repos\InalandBooking\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map"'
+[25-06-2024 10:47:51045 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/1.1 GET https://localhost:7037/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map - - - 200 327261 text/plain 64.5808ms
+[25-06-2024 10:52:21504 +03:00 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager ] User profile is available. Using '"C:\Users\ina_z\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+[25-06-2024 10:52:21847 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "https://localhost:7037"
+[25-06-2024 10:52:21849 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "http://localhost:5293"
+[25-06-2024 10:52:21854 +03:00 Microsoft.Hosting.Lifetime ] Application started. Press Ctrl+C to shut down.
+[25-06-2024 10:52:21855 +03:00 Microsoft.Hosting.Lifetime ] Hosting environment: "Development"
+[25-06-2024 10:52:21856 +03:00 Microsoft.Hosting.Lifetime ] Content root path: "C:\Users\ina_z\source\repos\InalandBooking\"
+[25-06-2024 10:52:23540 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:7037/ - -
+[25-06-2024 10:52:23772 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 10:52:23837 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "InalandBooking.Controllers.HomeController" ("InalandBooking").
+[25-06-2024 10:52:23859 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Index".
+[25-06-2024 10:52:23990 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Index" executed in 137.4575ms.
+[25-06-2024 10:52:23995 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "InalandBooking.Controllers.HomeController.Index (InalandBooking)" in 155.6272ms
+[25-06-2024 10:52:23997 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 10:52:24011 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:7037/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 10:52:24014 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:7037/ - - - 200 - text/html;+charset=utf-8 479.8478ms
+[25-06-2024 10:52:24027 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:7037/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 15.3040ms
+[25-06-2024 10:52:24051 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:7037/_vs/browserLink - -
+[25-06-2024 10:52:24138 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:7037/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 86.6769ms
+[25-06-2024 10:52:24302 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/1.1 GET https://localhost:7037/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map - -
+[25-06-2024 10:52:24362 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] Sending file. Request path: '"/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"'. Physical path: '"C:\Users\ina_z\source\repos\InalandBooking\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map"'
+[25-06-2024 10:52:24366 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/1.1 GET https://localhost:7037/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map - - - 200 327261 text/plain 64.1321ms
+[25-06-2024 10:52:26925 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:7037/Home/Privacy - -
+[25-06-2024 10:52:26934 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"InalandBooking.Controllers.HomeController.Privacy (InalandBooking)"'
+[25-06-2024 10:52:26938 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Privacy\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Privacy()" on controller "InalandBooking.Controllers.HomeController" ("InalandBooking").
+[25-06-2024 10:52:26941 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Privacy".
+[25-06-2024 10:52:26949 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Privacy" executed in 8.4147ms.
+[25-06-2024 10:52:26951 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "InalandBooking.Controllers.HomeController.Privacy (InalandBooking)" in 10.8234ms
+[25-06-2024 10:52:26953 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"InalandBooking.Controllers.HomeController.Privacy (InalandBooking)"'
+[25-06-2024 10:52:26958 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:7037/Home/Privacy - - - 200 - text/html;+charset=utf-8 33.3187ms
+[25-06-2024 10:52:26984 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:7037/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 10:52:26984 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:7037/_vs/browserLink - -
+[25-06-2024 10:52:27008 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:7037/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 24.0279ms
+[25-06-2024 10:52:27089 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:7037/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 104.3334ms
+[25-06-2024 10:52:27591 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:7037/ - -
+[25-06-2024 10:52:27597 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 10:52:27599 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "InalandBooking.Controllers.HomeController" ("InalandBooking").
+[25-06-2024 10:52:27601 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Index".
+[25-06-2024 10:52:27603 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Index" executed in 1.8876ms.
+[25-06-2024 10:52:27605 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "InalandBooking.Controllers.HomeController.Index (InalandBooking)" in 4.089ms
+[25-06-2024 10:52:27607 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 10:52:27611 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:7037/ - - - 200 - text/html;+charset=utf-8 18.4368ms
+[25-06-2024 10:52:27615 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:7037/_vs/browserLink - -
+[25-06-2024 10:52:27615 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:7037/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 10:52:27617 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:7037/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 1.9943ms
+[25-06-2024 10:52:27657 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:7037/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 41.3572ms
+[25-06-2024 10:52:28304 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:7037/Home/LogOut - -
+[25-06-2024 10:52:28308 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:7037/Home/LogOut - - - 404 0 - 4.7791ms
+[25-06-2024 12:46:22438 +03:00 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager ] User profile is available. Using '"C:\Users\ina_z\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+[25-06-2024 12:46:23182 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "https://localhost:5000"
+[25-06-2024 12:46:23183 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "http://localhost:5001"
+[25-06-2024 12:46:23189 +03:00 Microsoft.Hosting.Lifetime ] Application started. Press Ctrl+C to shut down.
+[25-06-2024 12:46:23191 +03:00 Microsoft.Hosting.Lifetime ] Hosting environment: "Development"
+[25-06-2024 12:46:23192 +03:00 Microsoft.Hosting.Lifetime ] Content root path: "C:\Users\ina_z\source\repos\InalandBooking\"
+[25-06-2024 12:46:25115 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/ - -
+[25-06-2024 12:46:25421 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 12:46:25498 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "InalandBooking.Controllers.HomeController" ("InalandBooking").
+[25-06-2024 12:46:25526 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Index".
+[25-06-2024 12:46:25708 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Index" executed in 193.2222ms.
+[25-06-2024 12:46:25715 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "InalandBooking.Controllers.HomeController.Index (InalandBooking)" in 213.1588ms
+[25-06-2024 12:46:25717 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/css/site.css?v=AKvNjO3dCPPS0eSU1Ez8T2wI280i08yGycV9ndytL-c - -
+[25-06-2024 12:46:25717 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0 - -
+[25-06-2024 12:46:25718 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/InalandBooking.styles.css?v=EWI_wgS0NVuu_UUV9DJi_T---kt1-2i9FiQtF87F9WM - -
+[25-06-2024 12:46:25717 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/lib/bootstrap/dist/css/bootstrap.min.css - -
+[25-06-2024 12:46:25717 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/lib/bootstrap/dist/js/bootstrap.bundle.min.js - -
+[25-06-2024 12:46:25717 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/lib/jquery/dist/jquery.min.js - -
+[25-06-2024 12:46:25723 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 12:46:25723 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 12:46:25748 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 18.0110ms
+[25-06-2024 12:46:25752 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/ - - - 200 - text/html;+charset=utf-8 642.6142ms
+[25-06-2024 12:46:25814 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] Sending file. Request path: '"/css/site.css"'. Physical path: '"C:\Users\ina_z\source\repos\InalandBooking\wwwroot\css\site.css"'
+[25-06-2024 12:46:25814 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] Sending file. Request path: '"/InalandBooking.styles.css"'. Physical path: '"C:\Users\ina_z\source\repos\InalandBooking\obj\Debug\net6.0\scopedcss\bundle\InalandBooking.styles.css"'
+[25-06-2024 12:46:25814 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] Sending file. Request path: '"/js/site.js"'. Physical path: '"C:\Users\ina_z\source\repos\InalandBooking\wwwroot\js\site.js"'
+[25-06-2024 12:46:25815 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] Sending file. Request path: '"/lib/bootstrap/dist/js/bootstrap.bundle.min.js"'. Physical path: '"C:\Users\ina_z\source\repos\InalandBooking\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js"'
+[25-06-2024 12:46:25820 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/css/site.css?v=AKvNjO3dCPPS0eSU1Ez8T2wI280i08yGycV9ndytL-c - - - 200 194 text/css 103.6379ms
+[25-06-2024 12:46:25823 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0 - - - 200 230 application/javascript 106.0876ms
+[25-06-2024 12:46:25822 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/InalandBooking.styles.css?v=EWI_wgS0NVuu_UUV9DJi_T---kt1-2i9FiQtF87F9WM - - - 200 1131 text/css 104.8175ms
+[25-06-2024 12:46:25824 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] Sending file. Request path: '"/lib/bootstrap/dist/css/bootstrap.min.css"'. Physical path: '"C:\Users\ina_z\source\repos\InalandBooking\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css"'
+[25-06-2024 12:46:25827 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/lib/bootstrap/dist/js/bootstrap.bundle.min.js - - - 200 78468 application/javascript 110.4739ms
+[25-06-2024 12:46:25829 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/lib/bootstrap/dist/css/bootstrap.min.css - - - 200 162720 text/css 112.5881ms
+[25-06-2024 12:46:25836 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] Sending file. Request path: '"/lib/jquery/dist/jquery.min.js"'. Physical path: '"C:\Users\ina_z\source\repos\InalandBooking\wwwroot\lib\jquery\dist\jquery.min.js"'
+[25-06-2024 12:46:25847 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/lib/jquery/dist/jquery.min.js - - - 200 89476 application/javascript 130.0704ms
+[25-06-2024 12:46:25869 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_vs/browserLink - -
+[25-06-2024 12:46:25990 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 120.1731ms
+[25-06-2024 12:46:26014 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/favicon.ico - -
+[25-06-2024 12:46:26027 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] Sending file. Request path: '"/favicon.ico"'. Physical path: '"C:\Users\ina_z\source\repos\InalandBooking\wwwroot\favicon.ico"'
+[25-06-2024 12:46:26030 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/favicon.ico - - - 200 5430 image/x-icon 15.7763ms
+[25-06-2024 12:46:26030 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/1.1 GET https://localhost:5000/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map - -
+[25-06-2024 12:46:26053 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] Sending file. Request path: '"/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"'. Physical path: '"C:\Users\ina_z\source\repos\InalandBooking\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map"'
+[25-06-2024 12:46:26055 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/1.1 GET https://localhost:5000/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map - - - 200 327261 text/plain 24.3993ms
+[25-06-2024 12:46:36273 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/ - -
+[25-06-2024 12:46:36278 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 12:46:36280 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "InalandBooking.Controllers.HomeController" ("InalandBooking").
+[25-06-2024 12:46:36282 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Index".
+[25-06-2024 12:46:36286 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Index" executed in 4.4935ms.
+[25-06-2024 12:46:36288 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "InalandBooking.Controllers.HomeController.Index (InalandBooking)" in 6.5479ms
+[25-06-2024 12:46:36289 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 12:46:36292 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/ - - - 200 - text/html;+charset=utf-8 18.5270ms
+[25-06-2024 12:46:36296 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 12:46:36297 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_vs/browserLink - -
+[25-06-2024 12:46:36299 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 4.8272ms
+[25-06-2024 12:46:36310 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 14.5315ms
+[25-06-2024 13:00:20166 +03:00 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager ] User profile is available. Using '"C:\Users\ina_z\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+[25-06-2024 13:00:20534 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "https://localhost:5000"
+[25-06-2024 13:00:20536 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "http://localhost:5001"
+[25-06-2024 13:00:20539 +03:00 Microsoft.Hosting.Lifetime ] Application started. Press Ctrl+C to shut down.
+[25-06-2024 13:00:20541 +03:00 Microsoft.Hosting.Lifetime ] Hosting environment: "Development"
+[25-06-2024 13:00:20542 +03:00 Microsoft.Hosting.Lifetime ] Content root path: "C:\Users\ina_z\source\repos\InalandBooking\"
+[25-06-2024 13:00:22661 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/ - -
+[25-06-2024 13:00:23044 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 13:00:23135 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "InalandBooking.Controllers.HomeController" ("InalandBooking").
+[25-06-2024 13:00:23180 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Index".
+[25-06-2024 13:00:23394 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Index" executed in 234.391ms.
+[25-06-2024 13:00:23403 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "InalandBooking.Controllers.HomeController.Index (InalandBooking)" in 264.9279ms
+[25-06-2024 13:00:23405 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 13:00:23426 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/ - - - 200 - text/html;+charset=utf-8 772.6494ms
+[25-06-2024 13:00:23484 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 13:00:23493 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 8.4934ms
+[25-06-2024 13:00:23501 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_vs/browserLink - -
+[25-06-2024 13:00:23624 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 122.9778ms
+[25-06-2024 13:00:23694 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/1.1 GET https://localhost:5000/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map - -
+[25-06-2024 13:00:23744 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] Sending file. Request path: '"/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"'. Physical path: '"C:\Users\ina_z\source\repos\InalandBooking\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map"'
+[25-06-2024 13:00:23751 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/1.1 GET https://localhost:5000/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map - - - 200 327261 text/plain 56.6178ms
+[25-06-2024 13:00:27380 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/ - -
+[25-06-2024 13:00:27385 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 13:00:27387 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "InalandBooking.Controllers.HomeController" ("InalandBooking").
+[25-06-2024 13:00:27389 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Index".
+[25-06-2024 13:00:27393 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Index" executed in 4.4584ms.
+[25-06-2024 13:00:27395 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "InalandBooking.Controllers.HomeController.Index (InalandBooking)" in 6.251ms
+[25-06-2024 13:00:27396 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 13:00:27398 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/ - - - 200 - text/html;+charset=utf-8 17.4126ms
+[25-06-2024 13:00:27404 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_vs/browserLink - -
+[25-06-2024 13:00:27405 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 13:00:27410 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 5.6923ms
+[25-06-2024 13:00:27444 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 39.3226ms
+[25-06-2024 13:02:17609 +03:00 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager ] User profile is available. Using '"C:\Users\ina_z\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+[25-06-2024 13:02:17870 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "https://localhost:5000"
+[25-06-2024 13:02:17872 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "http://localhost:5001"
+[25-06-2024 13:02:17876 +03:00 Microsoft.Hosting.Lifetime ] Application started. Press Ctrl+C to shut down.
+[25-06-2024 13:02:17878 +03:00 Microsoft.Hosting.Lifetime ] Hosting environment: "Development"
+[25-06-2024 13:02:17879 +03:00 Microsoft.Hosting.Lifetime ] Content root path: "C:\Users\ina_z\source\repos\InalandBooking\"
+[25-06-2024 13:02:20708 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/ - -
+[25-06-2024 13:02:21010 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 13:02:21103 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "InalandBooking.Controllers.HomeController" ("InalandBooking").
+[25-06-2024 13:02:21131 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Index".
+[25-06-2024 13:02:21291 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Index" executed in 169.348ms.
+[25-06-2024 13:02:21297 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "InalandBooking.Controllers.HomeController.Index (InalandBooking)" in 190.4172ms
+[25-06-2024 13:02:21298 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 13:02:21316 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/ - - - 200 - text/html;+charset=utf-8 618.3883ms
+[25-06-2024 13:02:21333 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 13:02:21340 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 7.6939ms
+[25-06-2024 13:02:21378 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_vs/browserLink - -
+[25-06-2024 13:02:21466 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 87.8328ms
+[25-06-2024 13:02:21689 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/1.1 GET https://localhost:5000/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map - -
+[25-06-2024 13:02:21749 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] Sending file. Request path: '"/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"'. Physical path: '"C:\Users\ina_z\source\repos\InalandBooking\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map"'
+[25-06-2024 13:02:21762 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/1.1 GET https://localhost:5000/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map - - - 200 327261 text/plain 73.4011ms
+[25-06-2024 13:02:27555 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/ - -
+[25-06-2024 13:02:27560 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 13:02:27561 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "InalandBooking.Controllers.HomeController" ("InalandBooking").
+[25-06-2024 13:02:27563 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Index".
+[25-06-2024 13:02:27569 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Index" executed in 5.6213ms.
+[25-06-2024 13:02:27571 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "InalandBooking.Controllers.HomeController.Index (InalandBooking)" in 7.9702ms
+[25-06-2024 13:02:27574 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 13:02:27575 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/ - - - 200 - text/html;+charset=utf-8 20.5333ms
+[25-06-2024 13:02:27577 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 13:02:27577 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_vs/browserLink - -
+[25-06-2024 13:02:27579 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 1.6097ms
+[25-06-2024 13:02:27638 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 60.4939ms
+[25-06-2024 13:02:28265 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/Home/Privacy - -
+[25-06-2024 13:02:28276 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"InalandBooking.Controllers.HomeController.Privacy (InalandBooking)"'
+[25-06-2024 13:02:28279 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Privacy\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Privacy()" on controller "InalandBooking.Controllers.HomeController" ("InalandBooking").
+[25-06-2024 13:02:28282 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Privacy".
+[25-06-2024 13:02:28286 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Privacy" executed in 3.9103ms.
+[25-06-2024 13:02:28288 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "InalandBooking.Controllers.HomeController.Privacy (InalandBooking)" in 6.1617ms
+[25-06-2024 13:02:28290 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"InalandBooking.Controllers.HomeController.Privacy (InalandBooking)"'
+[25-06-2024 13:02:28292 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/Home/Privacy - - - 200 - text/html;+charset=utf-8 27.1030ms
+[25-06-2024 13:02:28294 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_vs/browserLink - -
+[25-06-2024 13:02:28294 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 13:02:28297 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 3.2489ms
+[25-06-2024 13:02:28320 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 26.2561ms
+[25-06-2024 13:02:29324 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/ - -
+[25-06-2024 13:02:29327 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 13:02:29329 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "InalandBooking.Controllers.HomeController" ("InalandBooking").
+[25-06-2024 13:02:29331 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Index".
+[25-06-2024 13:02:29333 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Index" executed in 1.8758ms.
+[25-06-2024 13:02:29334 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "InalandBooking.Controllers.HomeController.Index (InalandBooking)" in 3.402ms
+[25-06-2024 13:02:29336 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 13:02:29338 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/ - - - 200 - text/html;+charset=utf-8 13.5746ms
+[25-06-2024 13:02:29340 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_vs/browserLink - -
+[25-06-2024 13:02:29340 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 13:02:29343 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 3.0764ms
+[25-06-2024 13:02:29363 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 22.9668ms
+[25-06-2024 13:09:45412 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/ - -
+[25-06-2024 13:09:45423 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 13:09:45424 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "InalandBooking.Controllers.HomeController" ("InalandBooking").
+[25-06-2024 13:09:45428 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Index".
+[25-06-2024 13:09:45430 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Index" executed in 3.6158ms.
+[25-06-2024 13:09:45432 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "InalandBooking.Controllers.HomeController.Index (InalandBooking)" in 5.5093ms
+[25-06-2024 13:09:45435 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 13:09:45436 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/ - - - 200 - text/html;+charset=utf-8 25.5916ms
+[25-06-2024 13:09:45447 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 13:09:45495 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_vs/browserLink - -
+[25-06-2024 13:09:45496 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 48.5566ms
+[25-06-2024 13:09:45517 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 24.1876ms
+[25-06-2024 13:09:46718 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/ - -
+[25-06-2024 13:09:46721 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 13:09:46722 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "InalandBooking.Controllers.HomeController" ("InalandBooking").
+[25-06-2024 13:09:46724 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Index".
+[25-06-2024 13:09:46726 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Index" executed in 1.8408ms.
+[25-06-2024 13:09:46727 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "InalandBooking.Controllers.HomeController.Index (InalandBooking)" in 2.8376ms
+[25-06-2024 13:09:46729 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 13:09:46731 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/ - - - 200 - text/html;+charset=utf-8 12.9107ms
+[25-06-2024 13:09:46735 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 13:09:46735 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_vs/browserLink - -
+[25-06-2024 13:09:46736 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 1.2124ms
+[25-06-2024 13:09:46779 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 44.5576ms
+[25-06-2024 13:11:13853 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/ - -
+[25-06-2024 13:11:13868 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 13:11:13870 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "InalandBooking.Controllers.HomeController" ("InalandBooking").
+[25-06-2024 13:11:13872 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Index".
+[25-06-2024 13:11:13874 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Index" executed in 1.835ms.
+[25-06-2024 13:11:13876 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "InalandBooking.Controllers.HomeController.Index (InalandBooking)" in 4.0294ms
+[25-06-2024 13:11:13878 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 13:11:13881 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/ - - - 200 - text/html;+charset=utf-8 27.3856ms
+[25-06-2024 13:11:13892 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 13:11:13920 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_vs/browserLink - -
+[25-06-2024 13:11:13933 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 41.4285ms
+[25-06-2024 13:11:13979 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 58.3890ms
+[25-06-2024 13:11:55392 +03:00 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager ] User profile is available. Using '"C:\Users\ina_z\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+[25-06-2024 13:11:55662 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "https://localhost:5000"
+[25-06-2024 13:11:55664 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "http://localhost:5001"
+[25-06-2024 13:11:55670 +03:00 Microsoft.Hosting.Lifetime ] Application started. Press Ctrl+C to shut down.
+[25-06-2024 13:11:55672 +03:00 Microsoft.Hosting.Lifetime ] Hosting environment: "Development"
+[25-06-2024 13:11:55673 +03:00 Microsoft.Hosting.Lifetime ] Content root path: "C:\Users\ina_z\source\repos\InalandBooking\"
+[25-06-2024 13:11:58185 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/ - -
+[25-06-2024 13:11:58402 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 13:11:58449 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "InalandBooking.Controllers.HomeController" ("InalandBooking").
+[25-06-2024 13:11:58469 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Index".
+[25-06-2024 13:11:58597 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Index" executed in 132.9478ms.
+[25-06-2024 13:11:58603 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/lib/jquery/dist/jquery.js - -
+[25-06-2024 13:11:58603 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/lib/bootstrap/dist/js/bootstrap.bundle.js - -
+[25-06-2024 13:11:58603 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 13:11:58603 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/css/site.css - -
+[25-06-2024 13:11:58618 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "InalandBooking.Controllers.HomeController.Index (InalandBooking)" in 165.6332ms
+[25-06-2024 13:11:58626 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_vs/browserLink - -
+[25-06-2024 13:11:58628 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 23.8192ms
+[25-06-2024 13:11:58626 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 13:11:58649 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/ - - - 200 - text/html;+charset=utf-8 473.2669ms
+[25-06-2024 13:11:58652 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] Sending file. Request path: '"/css/site.css"'. Physical path: '"C:\Users\ina_z\source\repos\InalandBooking\wwwroot\css\site.css"'
+[25-06-2024 13:11:58653 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/css/site.css - - - 200 194 text/css 50.9466ms
+[25-06-2024 13:11:58729 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 103.3596ms
+[25-06-2024 13:11:58793 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] Sending file. Request path: '"/lib/bootstrap/dist/js/bootstrap.bundle.js"'. Physical path: '"C:\Users\ina_z\source\repos\InalandBooking\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js"'
+[25-06-2024 13:11:58797 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/lib/bootstrap/dist/js/bootstrap.bundle.js - - - 200 208492 application/javascript 193.8969ms
+[25-06-2024 13:11:58798 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] Sending file. Request path: '"/lib/jquery/dist/jquery.js"'. Physical path: '"C:\Users\ina_z\source\repos\InalandBooking\wwwroot\lib\jquery\dist\jquery.js"'
+[25-06-2024 13:11:58802 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/lib/jquery/dist/jquery.js - - - 200 287630 application/javascript 198.4148ms
+[25-06-2024 13:11:58927 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/1.1 GET https://localhost:5000/lib/bootstrap/dist/js/bootstrap.bundle.js.map - -
+[25-06-2024 13:11:58950 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] Sending file. Request path: '"/lib/bootstrap/dist/js/bootstrap.bundle.js.map"'. Physical path: '"C:\Users\ina_z\source\repos\InalandBooking\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map"'
+[25-06-2024 13:11:58952 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/1.1 GET https://localhost:5000/lib/bootstrap/dist/js/bootstrap.bundle.js.map - - - 200 425643 text/plain 25.1883ms
+[25-06-2024 13:12:08553 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/Home/Privacy - -
+[25-06-2024 13:12:08563 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"InalandBooking.Controllers.HomeController.Privacy (InalandBooking)"'
+[25-06-2024 13:12:08566 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Privacy\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Privacy()" on controller "InalandBooking.Controllers.HomeController" ("InalandBooking").
+[25-06-2024 13:12:08569 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Privacy".
+[25-06-2024 13:12:08574 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Privacy" executed in 5.573ms.
+[25-06-2024 13:12:08575 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "InalandBooking.Controllers.HomeController.Privacy (InalandBooking)" in 7.5752ms
+[25-06-2024 13:12:08577 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"InalandBooking.Controllers.HomeController.Privacy (InalandBooking)"'
+[25-06-2024 13:12:08579 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/Home/Privacy - - - 200 - text/html;+charset=utf-8 26.0490ms
+[25-06-2024 13:12:08587 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_vs/browserLink - -
+[25-06-2024 13:12:08588 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 13:12:08589 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 1.4290ms
+[25-06-2024 13:12:08645 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 57.6215ms
+[25-06-2024 13:12:09529 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/ - -
+[25-06-2024 13:12:09534 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 13:12:09536 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "InalandBooking.Controllers.HomeController" ("InalandBooking").
+[25-06-2024 13:12:09538 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Index".
+[25-06-2024 13:12:09539 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Index" executed in 1.7545ms.
+[25-06-2024 13:12:09542 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "InalandBooking.Controllers.HomeController.Index (InalandBooking)" in 3.8484ms
+[25-06-2024 13:12:09543 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 13:12:09544 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/ - - - 200 - text/html;+charset=utf-8 15.1509ms
+[25-06-2024 13:12:09547 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_vs/browserLink - -
+[25-06-2024 13:12:09547 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 13:12:09550 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 2.2591ms
+[25-06-2024 13:12:09589 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 41.6909ms
+[25-06-2024 13:12:10419 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/Account/Logout - -
+[25-06-2024 13:12:10422 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"405 HTTP Method Not Supported"'
+[25-06-2024 13:12:10424 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"405 HTTP Method Not Supported"'
+[25-06-2024 13:12:10426 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/Account/Logout - - - 405 0 - 7.3548ms
+[25-06-2024 13:12:12614 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 13:12:12618 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 4.1034ms
+[25-06-2024 13:12:43725 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/ - -
+[25-06-2024 13:12:43733 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 13:12:43734 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "InalandBooking.Controllers.HomeController" ("InalandBooking").
+[25-06-2024 13:12:43737 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Index".
+[25-06-2024 13:12:43739 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Index" executed in 1.924ms.
+[25-06-2024 13:12:43740 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "InalandBooking.Controllers.HomeController.Index (InalandBooking)" in 3.5385ms
+[25-06-2024 13:12:43742 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 13:12:43743 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/ - - - 200 - text/html;+charset=utf-8 17.9597ms
+[25-06-2024 13:12:43746 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 13:12:43746 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_vs/browserLink - -
+[25-06-2024 13:12:43747 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 1.4743ms
+[25-06-2024 13:12:43811 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 64.5777ms
+[25-06-2024 13:12:47612 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/ - -
+[25-06-2024 13:12:47615 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 13:12:47616 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "InalandBooking.Controllers.HomeController" ("InalandBooking").
+[25-06-2024 13:12:47619 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Index".
+[25-06-2024 13:12:47621 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Index" executed in 2.3735ms.
+[25-06-2024 13:12:47623 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "InalandBooking.Controllers.HomeController.Index (InalandBooking)" in 4.5422ms
+[25-06-2024 13:12:47628 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 13:12:47631 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 13:12:47631 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_vs/browserLink - -
+[25-06-2024 13:12:47631 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/ - - - 200 - text/html;+charset=utf-8 19.0671ms
+[25-06-2024 13:12:47632 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 0.8474ms
+[25-06-2024 13:12:47656 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 25.3501ms
+[25-06-2024 13:12:48219 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/ - -
+[25-06-2024 13:12:48245 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 13:12:48246 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "InalandBooking.Controllers.HomeController" ("InalandBooking").
+[25-06-2024 13:12:48249 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Index".
+[25-06-2024 13:12:48250 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Index" executed in 1.6995ms.
+[25-06-2024 13:12:48252 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "InalandBooking.Controllers.HomeController.Index (InalandBooking)" in 3.3931ms
+[25-06-2024 13:12:48254 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 13:12:48255 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/ - - - 200 - text/html;+charset=utf-8 36.4796ms
+[25-06-2024 13:12:48257 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 13:12:48257 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_vs/browserLink - -
+[25-06-2024 13:12:48258 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 1.8984ms
+[25-06-2024 13:12:48283 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 26.1467ms
+[25-06-2024 13:12:49065 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/Home/Privacy - -
+[25-06-2024 13:12:49070 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"InalandBooking.Controllers.HomeController.Privacy (InalandBooking)"'
+[25-06-2024 13:12:49071 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Privacy\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Privacy()" on controller "InalandBooking.Controllers.HomeController" ("InalandBooking").
+[25-06-2024 13:12:49073 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Privacy".
+[25-06-2024 13:12:49075 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Privacy" executed in 1.8649ms.
+[25-06-2024 13:12:49076 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "InalandBooking.Controllers.HomeController.Privacy (InalandBooking)" in 3.6063ms
+[25-06-2024 13:12:49078 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"InalandBooking.Controllers.HomeController.Privacy (InalandBooking)"'
+[25-06-2024 13:12:49080 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/Home/Privacy - - - 200 - text/html;+charset=utf-8 15.1315ms
+[25-06-2024 13:12:49082 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 13:12:49082 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_vs/browserLink - -
+[25-06-2024 13:12:49083 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 1.1957ms
+[25-06-2024 13:12:49122 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 40.2034ms
+[25-06-2024 13:12:49701 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/Account/Logout - -
+[25-06-2024 13:12:49705 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"405 HTTP Method Not Supported"'
+[25-06-2024 13:12:49706 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"405 HTTP Method Not Supported"'
+[25-06-2024 13:12:49708 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/Account/Logout - - - 405 0 - 6.6526ms
+[25-06-2024 13:12:52207 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 13:12:52208 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 1.3229ms
+[25-06-2024 13:12:53610 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/Account/Logout - -
+[25-06-2024 13:12:53613 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"405 HTTP Method Not Supported"'
+[25-06-2024 13:12:53615 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"405 HTTP Method Not Supported"'
+[25-06-2024 13:12:53616 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/Account/Logout - - - 405 0 - 5.6212ms
+[25-06-2024 13:17:32620 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/Account/Logout - -
+[25-06-2024 13:17:32631 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"405 HTTP Method Not Supported"'
+[25-06-2024 13:17:32632 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"405 HTTP Method Not Supported"'
+[25-06-2024 13:17:32633 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/Account/Logout - - - 405 0 - 14.3731ms
+[25-06-2024 13:17:33476 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 13:17:33481 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 4.5594ms
+[25-06-2024 13:17:35640 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/Home/Privacy - -
+[25-06-2024 13:17:35643 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"InalandBooking.Controllers.HomeController.Privacy (InalandBooking)"'
+[25-06-2024 13:17:35645 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Privacy\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Privacy()" on controller "InalandBooking.Controllers.HomeController" ("InalandBooking").
+[25-06-2024 13:17:35654 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Privacy".
+[25-06-2024 13:17:35657 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Privacy" executed in 9.7449ms.
+[25-06-2024 13:17:35658 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "InalandBooking.Controllers.HomeController.Privacy (InalandBooking)" in 11.3756ms
+[25-06-2024 13:17:35660 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"InalandBooking.Controllers.HomeController.Privacy (InalandBooking)"'
+[25-06-2024 13:17:35661 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/Home/Privacy - - - 200 - text/html;+charset=utf-8 21.2204ms
+[25-06-2024 13:17:35665 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 13:17:35665 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_vs/browserLink - -
+[25-06-2024 13:17:35666 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 1.5636ms
+[25-06-2024 13:17:35703 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 37.5282ms
+[25-06-2024 13:17:36836 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/Home/Privacy - -
+[25-06-2024 13:17:36838 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"InalandBooking.Controllers.HomeController.Privacy (InalandBooking)"'
+[25-06-2024 13:17:36840 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Privacy\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Privacy()" on controller "InalandBooking.Controllers.HomeController" ("InalandBooking").
+[25-06-2024 13:17:36842 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Privacy".
+[25-06-2024 13:17:36843 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Privacy" executed in 1.4049ms.
+[25-06-2024 13:17:36845 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "InalandBooking.Controllers.HomeController.Privacy (InalandBooking)" in 2.8364ms
+[25-06-2024 13:17:36846 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"InalandBooking.Controllers.HomeController.Privacy (InalandBooking)"'
+[25-06-2024 13:17:36847 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/Home/Privacy - - - 200 - text/html;+charset=utf-8 11.3416ms
+[25-06-2024 13:17:36850 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_vs/browserLink - -
+[25-06-2024 13:17:36850 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 13:17:36852 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 2.4537ms
+[25-06-2024 13:17:36871 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 21.5997ms
+[25-06-2024 13:17:37861 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/ - -
+[25-06-2024 13:17:37867 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 13:17:37868 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "InalandBooking.Controllers.HomeController" ("InalandBooking").
+[25-06-2024 13:17:37874 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Index".
+[25-06-2024 13:17:37877 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Index" executed in 2.1011ms.
+[25-06-2024 13:17:37878 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "InalandBooking.Controllers.HomeController.Index (InalandBooking)" in 3.3307ms
+[25-06-2024 13:17:37884 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 13:17:37885 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_vs/browserLink - -
+[25-06-2024 13:17:37885 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 13:17:37886 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 1.9159ms
+[25-06-2024 13:17:37954 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 69.8283ms
+[25-06-2024 13:17:37957 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/ - - - 200 - text/html;+charset=utf-8 96.0004ms
+[25-06-2024 13:17:38858 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/ - -
+[25-06-2024 13:17:38861 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 13:17:38862 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "InalandBooking.Controllers.HomeController" ("InalandBooking").
+[25-06-2024 13:17:38864 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Index".
+[25-06-2024 13:17:38865 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Index" executed in 1.4253ms.
+[25-06-2024 13:17:38867 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "InalandBooking.Controllers.HomeController.Index (InalandBooking)" in 3.1411ms
+[25-06-2024 13:17:38868 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 13:17:38870 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/ - - - 200 - text/html;+charset=utf-8 12.4024ms
+[25-06-2024 13:17:38874 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 13:17:38876 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_vs/browserLink - -
+[25-06-2024 13:17:38885 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 10.6690ms
+[25-06-2024 13:17:38908 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 32.7245ms
+[25-06-2024 13:17:39611 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/Home/Privacy - -
+[25-06-2024 13:17:39614 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"InalandBooking.Controllers.HomeController.Privacy (InalandBooking)"'
+[25-06-2024 13:17:39615 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Privacy\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Privacy()" on controller "InalandBooking.Controllers.HomeController" ("InalandBooking").
+[25-06-2024 13:17:39617 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Privacy".
+[25-06-2024 13:17:39620 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Privacy" executed in 2.8615ms.
+[25-06-2024 13:17:39622 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "InalandBooking.Controllers.HomeController.Privacy (InalandBooking)" in 4.8975ms
+[25-06-2024 13:17:39623 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"InalandBooking.Controllers.HomeController.Privacy (InalandBooking)"'
+[25-06-2024 13:17:39625 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/Home/Privacy - - - 200 - text/html;+charset=utf-8 14.3118ms
+[25-06-2024 13:17:39626 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_vs/browserLink - -
+[25-06-2024 13:17:39626 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 13:17:39630 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 4.0083ms
+[25-06-2024 13:17:39665 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 38.6531ms
+[25-06-2024 13:17:40427 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/Account/Logout - -
+[25-06-2024 13:17:40431 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"405 HTTP Method Not Supported"'
+[25-06-2024 13:17:40432 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"405 HTTP Method Not Supported"'
+[25-06-2024 13:17:40433 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/Account/Logout - - - 405 0 - 5.5382ms
+[25-06-2024 13:19:35079 +03:00 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager ] User profile is available. Using '"C:\Users\ina_z\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+[25-06-2024 13:19:35454 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "https://localhost:5000"
+[25-06-2024 13:19:35455 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "http://localhost:5001"
+[25-06-2024 13:19:35460 +03:00 Microsoft.Hosting.Lifetime ] Application started. Press Ctrl+C to shut down.
+[25-06-2024 13:19:35462 +03:00 Microsoft.Hosting.Lifetime ] Hosting environment: "Development"
+[25-06-2024 13:19:35463 +03:00 Microsoft.Hosting.Lifetime ] Content root path: "C:\Users\ina_z\source\repos\InalandBooking\"
+[25-06-2024 13:19:37688 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/ - -
+[25-06-2024 13:19:37956 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 13:19:38028 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "InalandBooking.Controllers.HomeController" ("InalandBooking").
+[25-06-2024 13:19:38049 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Index".
+[25-06-2024 13:19:38199 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Index" executed in 150.689ms.
+[25-06-2024 13:19:38211 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "InalandBooking.Controllers.HomeController.Index (InalandBooking)" in 180.5344ms
+[25-06-2024 13:19:38214 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 13:19:38215 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 13:19:38223 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 8.4170ms
+[25-06-2024 13:19:38228 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/ - - - 200 - text/html;+charset=utf-8 546.5931ms
+[25-06-2024 13:19:38916 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_vs/browserLink - -
+[25-06-2024 13:19:39031 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 114.2479ms
+[25-06-2024 13:19:39104 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/1.1 GET https://localhost:5000/lib/bootstrap/dist/js/bootstrap.bundle.js.map - -
+[25-06-2024 13:19:39175 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] Sending file. Request path: '"/lib/bootstrap/dist/js/bootstrap.bundle.js.map"'. Physical path: '"C:\Users\ina_z\source\repos\InalandBooking\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map"'
+[25-06-2024 13:19:39180 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/1.1 GET https://localhost:5000/lib/bootstrap/dist/js/bootstrap.bundle.js.map - - - 200 425643 text/plain 75.4647ms
+[25-06-2024 13:19:40694 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/ - -
+[25-06-2024 13:19:40702 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 13:19:40703 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "InalandBooking.Controllers.HomeController" ("InalandBooking").
+[25-06-2024 13:19:40706 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Index".
+[25-06-2024 13:19:40712 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Index" executed in 5.3249ms.
+[25-06-2024 13:19:40714 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "InalandBooking.Controllers.HomeController.Index (InalandBooking)" in 7.5011ms
+[25-06-2024 13:19:40715 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 13:19:40717 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/ - - - 200 - text/html;+charset=utf-8 23.4322ms
+[25-06-2024 13:19:40720 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_vs/browserLink - -
+[25-06-2024 13:19:40720 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 13:19:40729 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 9.5185ms
+[25-06-2024 13:19:40758 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 38.4057ms
+[25-06-2024 13:19:41347 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/Home/Privacy - -
+[25-06-2024 13:19:41357 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"InalandBooking.Controllers.HomeController.Privacy (InalandBooking)"'
+[25-06-2024 13:19:41360 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Privacy\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Privacy()" on controller "InalandBooking.Controllers.HomeController" ("InalandBooking").
+[25-06-2024 13:19:41364 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Privacy".
+[25-06-2024 13:19:41368 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Privacy" executed in 4.3706ms.
+[25-06-2024 13:19:41370 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "InalandBooking.Controllers.HomeController.Privacy (InalandBooking)" in 6.5727ms
+[25-06-2024 13:19:41374 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"InalandBooking.Controllers.HomeController.Privacy (InalandBooking)"'
+[25-06-2024 13:19:41376 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 13:19:41376 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_vs/browserLink - -
+[25-06-2024 13:19:41376 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/Home/Privacy - - - 200 - text/html;+charset=utf-8 29.8604ms
+[25-06-2024 13:19:41378 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 2.1336ms
+[25-06-2024 13:19:41428 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 52.2564ms
+[25-06-2024 13:19:41812 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/Account/Logout - -
+[25-06-2024 13:19:41818 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"405 HTTP Method Not Supported"'
+[25-06-2024 13:19:41819 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"405 HTTP Method Not Supported"'
+[25-06-2024 13:19:41821 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/Account/Logout - - - 405 0 - 9.1652ms
+[25-06-2024 13:20:12970 +03:00 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager ] User profile is available. Using '"C:\Users\ina_z\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+[25-06-2024 13:20:13276 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "https://localhost:5000"
+[25-06-2024 13:20:13277 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "http://localhost:5001"
+[25-06-2024 13:20:13282 +03:00 Microsoft.Hosting.Lifetime ] Application started. Press Ctrl+C to shut down.
+[25-06-2024 13:20:13283 +03:00 Microsoft.Hosting.Lifetime ] Hosting environment: "Development"
+[25-06-2024 13:20:13285 +03:00 Microsoft.Hosting.Lifetime ] Content root path: "C:\Users\ina_z\source\repos\InalandBooking\"
+[25-06-2024 13:20:15686 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/ - -
+[25-06-2024 13:20:15921 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 13:20:15974 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "InalandBooking.Controllers.HomeController" ("InalandBooking").
+[25-06-2024 13:20:15998 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Index".
+[25-06-2024 13:20:16124 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Index" executed in 132.9127ms.
+[25-06-2024 13:20:16131 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 13:20:16135 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "InalandBooking.Controllers.HomeController.Index (InalandBooking)" in 157.3813ms
+[25-06-2024 13:20:16137 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 13:20:16142 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 10.1578ms
+[25-06-2024 13:20:16151 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/ - - - 200 - text/html;+charset=utf-8 473.7032ms
+[25-06-2024 13:20:17029 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_vs/browserLink - -
+[25-06-2024 13:21:45400 +03:00 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager ] User profile is available. Using '"C:\Users\ina_z\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+[25-06-2024 13:21:45675 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "https://localhost:5000"
+[25-06-2024 13:21:45677 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "http://localhost:5001"
+[25-06-2024 13:21:45682 +03:00 Microsoft.Hosting.Lifetime ] Application started. Press Ctrl+C to shut down.
+[25-06-2024 13:21:45684 +03:00 Microsoft.Hosting.Lifetime ] Hosting environment: "Development"
+[25-06-2024 13:21:45685 +03:00 Microsoft.Hosting.Lifetime ] Content root path: "C:\Users\ina_z\source\repos\InalandBooking\"
+[25-06-2024 13:21:47814 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/ - -
+[25-06-2024 13:21:48030 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 13:21:48092 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "InalandBooking.Controllers.HomeController" ("InalandBooking").
+[25-06-2024 13:21:48116 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Index".
+[25-06-2024 13:21:48241 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Index" executed in 129.7387ms.
+[25-06-2024 13:21:48248 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 13:21:48248 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "InalandBooking.Controllers.HomeController.Index (InalandBooking)" in 153.5074ms
+[25-06-2024 13:21:48250 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 13:21:48255 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 7.4441ms
+[25-06-2024 13:21:48265 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/ - - - 200 - text/html;+charset=utf-8 458.6543ms
+[25-06-2024 13:21:53464 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_vs/browserLink - -
+[25-06-2024 13:21:53606 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 141.9114ms
+[25-06-2024 13:21:53689 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/1.1 GET https://localhost:5000/lib/bootstrap/dist/js/bootstrap.bundle.js.map - -
+[25-06-2024 13:21:53728 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] Sending file. Request path: '"/lib/bootstrap/dist/js/bootstrap.bundle.js.map"'. Physical path: '"C:\Users\ina_z\source\repos\InalandBooking\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map"'
+[25-06-2024 13:21:53732 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/1.1 GET https://localhost:5000/lib/bootstrap/dist/js/bootstrap.bundle.js.map - - - 200 425643 text/plain 42.9499ms
+[25-06-2024 13:21:59460 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/Account/Logout - -
+[25-06-2024 13:21:59469 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"405 HTTP Method Not Supported"'
+[25-06-2024 13:21:59470 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"405 HTTP Method Not Supported"'
+[25-06-2024 13:21:59472 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/Account/Logout - - - 405 0 - 12.7811ms
+[25-06-2024 13:22:00998 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 13:22:01000 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 2.3166ms
+[25-06-2024 13:22:02000 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/Home/Privacy - -
+[25-06-2024 13:22:02007 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"InalandBooking.Controllers.HomeController.Privacy (InalandBooking)"'
+[25-06-2024 13:22:02010 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Privacy\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Privacy()" on controller "InalandBooking.Controllers.HomeController" ("InalandBooking").
+[25-06-2024 13:22:02013 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Privacy".
+[25-06-2024 13:22:02018 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Privacy" executed in 5.6369ms.
+[25-06-2024 13:22:02020 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "InalandBooking.Controllers.HomeController.Privacy (InalandBooking)" in 7.9144ms
+[25-06-2024 13:22:02022 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"InalandBooking.Controllers.HomeController.Privacy (InalandBooking)"'
+[25-06-2024 13:22:02023 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/Home/Privacy - - - 200 - text/html;+charset=utf-8 23.3989ms
+[25-06-2024 13:22:02028 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 13:22:02028 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_vs/browserLink - -
+[25-06-2024 13:22:02029 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 1.8010ms
+[25-06-2024 13:22:02059 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 30.8601ms
+[25-06-2024 13:22:05063 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/ - -
+[25-06-2024 13:22:05070 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 13:22:05072 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "InalandBooking.Controllers.HomeController" ("InalandBooking").
+[25-06-2024 13:22:05074 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Index".
+[25-06-2024 13:22:05075 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Index" executed in 1.5179ms.
+[25-06-2024 13:22:05077 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "InalandBooking.Controllers.HomeController.Index (InalandBooking)" in 3.2287ms
+[25-06-2024 13:22:05078 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 13:22:05084 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/ - - - 200 - text/html;+charset=utf-8 20.6883ms
+[25-06-2024 13:22:05084 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 13:22:05088 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_vs/browserLink - -
+[25-06-2024 13:22:05090 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 7.2389ms
+[25-06-2024 13:22:05127 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 38.8960ms
+[25-06-2024 18:22:51654 +03:00 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager ] User profile is available. Using '"C:\Users\ina_z\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+[25-06-2024 18:22:52061 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "https://localhost:5000"
+[25-06-2024 18:22:52063 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "http://localhost:5001"
+[25-06-2024 18:22:52068 +03:00 Microsoft.Hosting.Lifetime ] Application started. Press Ctrl+C to shut down.
+[25-06-2024 18:22:52070 +03:00 Microsoft.Hosting.Lifetime ] Hosting environment: "Development"
+[25-06-2024 18:22:52071 +03:00 Microsoft.Hosting.Lifetime ] Content root path: "C:\Users\ina_z\source\repos\InalandBooking\"
+[25-06-2024 18:22:54600 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/ - -
+[25-06-2024 18:22:55167 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 18:22:55312 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "InalandBooking.Controllers.HomeController" ("InalandBooking").
+[25-06-2024 18:22:55335 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Index".
+[25-06-2024 18:22:55448 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Index" executed in 118.1161ms.
+[25-06-2024 18:22:55462 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "InalandBooking.Controllers.HomeController.Index (InalandBooking)" in 146.3258ms
+[25-06-2024 18:22:55463 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/lib/bootstrap/dist/js/bootstrap.bundle.js - -
+[25-06-2024 18:22:55463 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/css/site.css - -
+[25-06-2024 18:22:55463 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/lib/jquery/dist/jquery.js - -
+[25-06-2024 18:22:55463 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 18:22:55470 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 18:22:55479 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 16.0783ms
+[25-06-2024 18:22:55495 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/ - - - 200 - text/html;+charset=utf-8 900.0790ms
+[25-06-2024 18:22:55498 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] The file "/lib/bootstrap/dist/js/bootstrap.bundle.js" was not modified
+[25-06-2024 18:22:55498 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] The file "/lib/jquery/dist/jquery.js" was not modified
+[25-06-2024 18:22:55498 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] The file "/css/site.css" was not modified
+[25-06-2024 18:22:55500 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/lib/bootstrap/dist/js/bootstrap.bundle.js - - - 304 - application/javascript 36.3980ms
+[25-06-2024 18:22:55506 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/lib/jquery/dist/jquery.js - - - 304 - application/javascript 43.0996ms
+[25-06-2024 18:22:55507 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/css/site.css - - - 304 - text/css 44.5667ms
+[25-06-2024 18:22:56278 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_vs/browserLink - -
+[25-06-2024 18:22:56493 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 214.8725ms
+[25-06-2024 18:22:56494 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/1.1 GET https://localhost:5000/lib/bootstrap/dist/js/bootstrap.bundle.js.map - -
+[25-06-2024 18:22:56641 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] Sending file. Request path: '"/lib/bootstrap/dist/js/bootstrap.bundle.js.map"'. Physical path: '"C:\Users\ina_z\source\repos\InalandBooking\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map"'
+[25-06-2024 18:22:56646 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/1.1 GET https://localhost:5000/lib/bootstrap/dist/js/bootstrap.bundle.js.map - - - 200 425643 text/plain 152.0599ms
+[25-06-2024 18:23:02393 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/ - -
+[25-06-2024 18:23:02398 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 18:23:02400 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "InalandBooking.Controllers.HomeController" ("InalandBooking").
+[25-06-2024 18:23:02403 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Index".
+[25-06-2024 18:23:02407 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Index" executed in 4.6391ms.
+[25-06-2024 18:23:02409 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "InalandBooking.Controllers.HomeController.Index (InalandBooking)" in 6.8251ms
+[25-06-2024 18:23:02411 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 18:23:02413 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/ - - - 200 - text/html;+charset=utf-8 19.5679ms
+[25-06-2024 18:23:02415 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 18:23:02416 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_vs/browserLink - -
+[25-06-2024 18:23:02427 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 8.5608ms
+[25-06-2024 18:23:02469 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 52.2458ms
+[25-06-2024 20:58:21200 +03:00 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager ] User profile is available. Using '"C:\Users\ina_z\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+[25-06-2024 20:58:21420 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "https://localhost:5000"
+[25-06-2024 20:58:21423 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "http://localhost:5001"
+[25-06-2024 20:58:21428 +03:00 Microsoft.Hosting.Lifetime ] Application started. Press Ctrl+C to shut down.
+[25-06-2024 20:58:21429 +03:00 Microsoft.Hosting.Lifetime ] Hosting environment: "Development"
+[25-06-2024 20:58:21431 +03:00 Microsoft.Hosting.Lifetime ] Content root path: "C:\Users\ina_z\source\repos\InalandBooking\"
+[25-06-2024 20:58:23467 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/ - -
+[25-06-2024 20:58:23837 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 20:58:23893 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "InalandBooking.Controllers.HomeController" ("InalandBooking").
+[25-06-2024 20:58:23911 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Index".
+[25-06-2024 20:58:23995 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Index" executed in 88.6572ms.
+[25-06-2024 20:58:23998 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "InalandBooking.Controllers.HomeController.Index (InalandBooking)" in 102.1607ms
+[25-06-2024 20:58:24000 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 20:58:24014 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/ - - - 200 - text/html;+charset=utf-8 551.4637ms
+[25-06-2024 20:58:24035 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 20:58:24035 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/lib/bootstrap/dist/js/bootstrap.bundle.js - -
+[25-06-2024 20:58:24035 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/lib/jquery/dist/jquery.js - -
+[25-06-2024 20:58:24035 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/css/site.css - -
+[25-06-2024 20:58:24045 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 9.6112ms
+[25-06-2024 20:58:24060 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] Sending file. Request path: '"/css/site.css"'. Physical path: '"C:\Users\ina_z\source\repos\InalandBooking\wwwroot\css\site.css"'
+[25-06-2024 20:58:24061 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] Sending file. Request path: '"/lib/bootstrap/dist/js/bootstrap.bundle.js"'. Physical path: '"C:\Users\ina_z\source\repos\InalandBooking\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js"'
+[25-06-2024 20:58:24064 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_vs/browserLink - -
+[25-06-2024 20:58:24063 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] Sending file. Request path: '"/lib/jquery/dist/jquery.js"'. Physical path: '"C:\Users\ina_z\source\repos\InalandBooking\wwwroot\lib\jquery\dist\jquery.js"'
+[25-06-2024 20:58:24063 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/css/site.css - - - 200 194 text/css 27.9666ms
+[25-06-2024 20:58:24065 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/lib/bootstrap/dist/js/bootstrap.bundle.js - - - 200 208492 application/javascript 29.6233ms
+[25-06-2024 20:58:24067 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/lib/jquery/dist/jquery.js - - - 200 287630 application/javascript 32.4555ms
+[25-06-2024 20:58:24121 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 56.8905ms
+[25-06-2024 20:58:24223 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/favicon.ico - -
+[25-06-2024 20:58:24279 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] Sending file. Request path: '"/favicon.ico"'. Physical path: '"C:\Users\ina_z\source\repos\InalandBooking\wwwroot\favicon.ico"'
+[25-06-2024 20:58:24281 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/favicon.ico - - - 200 5430 image/x-icon 58.0495ms
+[25-06-2024 20:58:26949 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/ - -
+[25-06-2024 20:58:26953 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 20:58:26954 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "InalandBooking.Controllers.HomeController" ("InalandBooking").
+[25-06-2024 20:58:26957 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Index".
+[25-06-2024 20:58:26962 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Index" executed in 5.1975ms.
+[25-06-2024 20:58:26964 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "InalandBooking.Controllers.HomeController.Index (InalandBooking)" in 7.6188ms
+[25-06-2024 20:58:26965 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 20:58:26967 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/ - - - 200 - text/html;+charset=utf-8 18.4114ms
+[25-06-2024 20:58:26976 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_vs/browserLink - -
+[25-06-2024 20:58:26976 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 20:58:26978 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 2.1816ms
+[25-06-2024 20:58:26983 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 7.3074ms
+[25-06-2024 21:04:43855 +03:00 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager ] User profile is available. Using '"C:\Users\ina_z\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+[25-06-2024 21:04:44362 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "https://localhost:5000"
+[25-06-2024 21:04:44364 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "http://localhost:5001"
+[25-06-2024 21:04:44369 +03:00 Microsoft.Hosting.Lifetime ] Application started. Press Ctrl+C to shut down.
+[25-06-2024 21:04:44371 +03:00 Microsoft.Hosting.Lifetime ] Hosting environment: "Development"
+[25-06-2024 21:04:44372 +03:00 Microsoft.Hosting.Lifetime ] Content root path: "C:\Users\ina_z\source\repos\InalandBooking\"
+[25-06-2024 21:04:47874 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/ - -
+[25-06-2024 21:04:48188 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 21:04:48262 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "InalandBooking.Controllers.HomeController" ("InalandBooking").
+[25-06-2024 21:04:48287 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Index".
+[25-06-2024 21:04:48401 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Index" executed in 122.6877ms.
+[25-06-2024 21:04:48409 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "InalandBooking.Controllers.HomeController.Index (InalandBooking)" in 142.5714ms
+[25-06-2024 21:04:48412 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 21:04:48431 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 21:04:48431 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/css/site.css - -
+[25-06-2024 21:04:48434 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/lib/jquery/dist/jquery.js - -
+[25-06-2024 21:04:48434 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/lib/bootstrap/dist/js/bootstrap.bundle.js - -
+[25-06-2024 21:04:48453 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/ - - - 200 - text/html;+charset=utf-8 585.9093ms
+[25-06-2024 21:04:48454 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 23.3137ms
+[25-06-2024 21:04:48470 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] The file "/lib/jquery/dist/jquery.js" was not modified
+[25-06-2024 21:04:48470 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] The file "/lib/bootstrap/dist/js/bootstrap.bundle.js" was not modified
+[25-06-2024 21:04:48470 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] The file "/css/site.css" was not modified
+[25-06-2024 21:04:48473 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/lib/jquery/dist/jquery.js - - - 304 - application/javascript 38.9833ms
+[25-06-2024 21:04:48473 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/lib/bootstrap/dist/js/bootstrap.bundle.js - - - 304 - application/javascript 38.8677ms
+[25-06-2024 21:04:48474 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/css/site.css - - - 304 - text/css 43.1707ms
+[25-06-2024 21:04:50136 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_vs/browserLink - -
+[25-06-2024 21:04:50223 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 87.1100ms
+[25-06-2024 21:04:50397 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/1.1 GET https://localhost:5000/lib/bootstrap/dist/js/bootstrap.bundle.js.map - -
+[25-06-2024 21:04:50435 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] Sending file. Request path: '"/lib/bootstrap/dist/js/bootstrap.bundle.js.map"'. Physical path: '"C:\Users\ina_z\source\repos\InalandBooking\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map"'
+[25-06-2024 21:04:50438 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/1.1 GET https://localhost:5000/lib/bootstrap/dist/js/bootstrap.bundle.js.map - - - 200 425643 text/plain 40.3775ms
+[25-06-2024 21:04:52984 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/Account/Logout - -
+[25-06-2024 21:04:52993 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"405 HTTP Method Not Supported"'
+[25-06-2024 21:04:52994 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"405 HTTP Method Not Supported"'
+[25-06-2024 21:04:52996 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/Account/Logout - - - 405 0 - 12.1059ms
+[25-06-2024 21:04:54325 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 21:04:54337 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 12.5296ms
+[25-06-2024 21:04:55161 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/Home/Privacy - -
+[25-06-2024 21:04:55169 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"InalandBooking.Controllers.HomeController.Privacy (InalandBooking)"'
+[25-06-2024 21:04:55171 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Privacy\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Privacy()" on controller "InalandBooking.Controllers.HomeController" ("InalandBooking").
+[25-06-2024 21:04:55174 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Privacy".
+[25-06-2024 21:04:55180 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Privacy" executed in 6.7988ms.
+[25-06-2024 21:04:55182 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "InalandBooking.Controllers.HomeController.Privacy (InalandBooking)" in 9.3032ms
+[25-06-2024 21:04:55184 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"InalandBooking.Controllers.HomeController.Privacy (InalandBooking)"'
+[25-06-2024 21:04:55186 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/Home/Privacy - - - 200 - text/html;+charset=utf-8 25.2259ms
+[25-06-2024 21:04:55189 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 21:04:55189 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_vs/browserLink - -
+[25-06-2024 21:04:55190 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 1.6498ms
+[25-06-2024 21:04:55229 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 40.9477ms
+[25-06-2024 21:04:55893 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/ - -
+[25-06-2024 21:04:55896 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 21:04:55897 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "InalandBooking.Controllers.HomeController" ("InalandBooking").
+[25-06-2024 21:04:55900 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Index".
+[25-06-2024 21:04:55901 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Index" executed in 1.5624ms.
+[25-06-2024 21:04:55903 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "InalandBooking.Controllers.HomeController.Index (InalandBooking)" in 3.6091ms
+[25-06-2024 21:04:55905 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 21:04:55907 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/ - - - 200 - text/html;+charset=utf-8 13.2962ms
+[25-06-2024 21:04:55909 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 21:04:55909 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_vs/browserLink - -
+[25-06-2024 21:04:55911 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 1.4117ms
+[25-06-2024 21:04:55960 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 50.6957ms
+[25-06-2024 21:04:56755 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/Home/Privacy - -
+[25-06-2024 21:04:56760 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"InalandBooking.Controllers.HomeController.Privacy (InalandBooking)"'
+[25-06-2024 21:04:56761 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Privacy\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Privacy()" on controller "InalandBooking.Controllers.HomeController" ("InalandBooking").
+[25-06-2024 21:04:56763 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Privacy".
+[25-06-2024 21:04:56765 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Privacy" executed in 2.1057ms.
+[25-06-2024 21:04:56767 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "InalandBooking.Controllers.HomeController.Privacy (InalandBooking)" in 4.0335ms
+[25-06-2024 21:04:56769 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"InalandBooking.Controllers.HomeController.Privacy (InalandBooking)"'
+[25-06-2024 21:04:56772 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/Home/Privacy - - - 200 - text/html;+charset=utf-8 16.3727ms
+[25-06-2024 21:04:56773 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 21:04:56773 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_vs/browserLink - -
+[25-06-2024 21:04:56775 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 2.3428ms
+[25-06-2024 21:04:56798 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 24.5554ms
+[25-06-2024 21:08:33982 +03:00 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager ] User profile is available. Using '"C:\Users\ina_z\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+[25-06-2024 21:08:34293 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "https://localhost:5000"
+[25-06-2024 21:08:34295 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "http://localhost:5001"
+[25-06-2024 21:08:34300 +03:00 Microsoft.Hosting.Lifetime ] Application started. Press Ctrl+C to shut down.
+[25-06-2024 21:08:34301 +03:00 Microsoft.Hosting.Lifetime ] Hosting environment: "Development"
+[25-06-2024 21:08:34302 +03:00 Microsoft.Hosting.Lifetime ] Content root path: "C:\Users\ina_z\source\repos\InalandBooking\"
+[25-06-2024 21:08:35973 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/ - -
+[25-06-2024 21:08:36445 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 21:08:36514 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "InalandBooking.Controllers.HomeController" ("InalandBooking").
+[25-06-2024 21:08:36543 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Index".
+[25-06-2024 21:08:36721 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Index" executed in 171.0062ms.
+[25-06-2024 21:08:36722 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 21:08:36727 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "InalandBooking.Controllers.HomeController.Index (InalandBooking)" in 208.6323ms
+[25-06-2024 21:08:36731 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 21:08:36735 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 12.9233ms
+[25-06-2024 21:08:36751 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_vs/browserLink - -
+[25-06-2024 21:08:36751 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/ - - - 200 - text/html;+charset=utf-8 784.7934ms
+[25-06-2024 21:08:36855 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 104.3506ms
+[25-06-2024 21:08:36938 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/1.1 GET https://localhost:5000/lib/bootstrap/dist/js/bootstrap.bundle.js.map - -
+[25-06-2024 21:08:36977 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] Sending file. Request path: '"/lib/bootstrap/dist/js/bootstrap.bundle.js.map"'. Physical path: '"C:\Users\ina_z\source\repos\InalandBooking\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map"'
+[25-06-2024 21:08:36982 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/1.1 GET https://localhost:5000/lib/bootstrap/dist/js/bootstrap.bundle.js.map - - - 200 425643 text/plain 43.6626ms
+[25-06-2024 21:10:06295 +03:00 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager ] User profile is available. Using '"C:\Users\ina_z\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+[25-06-2024 21:10:06608 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "https://localhost:5000"
+[25-06-2024 21:10:06610 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "http://localhost:5001"
+[25-06-2024 21:10:06615 +03:00 Microsoft.Hosting.Lifetime ] Application started. Press Ctrl+C to shut down.
+[25-06-2024 21:10:06617 +03:00 Microsoft.Hosting.Lifetime ] Hosting environment: "Development"
+[25-06-2024 21:10:06618 +03:00 Microsoft.Hosting.Lifetime ] Content root path: "C:\Users\ina_z\source\repos\InalandBooking\"
+[25-06-2024 21:10:07918 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/ - -
+[25-06-2024 21:10:08253 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 21:10:08320 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "InalandBooking.Controllers.HomeController" ("InalandBooking").
+[25-06-2024 21:10:08346 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Index".
+[25-06-2024 21:10:08475 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Index" executed in 135.6514ms.
+[25-06-2024 21:10:08484 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 21:10:08484 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "InalandBooking.Controllers.HomeController.Index (InalandBooking)" in 161.7967ms
+[25-06-2024 21:10:08487 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 21:10:08494 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 8.7589ms
+[25-06-2024 21:10:08499 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/ - - - 200 - text/html;+charset=utf-8 590.3911ms
+[25-06-2024 21:10:09142 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_vs/browserLink - -
+[25-06-2024 21:10:09247 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 105.7115ms
+[25-06-2024 21:10:09320 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/1.1 GET https://localhost:5000/lib/bootstrap/dist/js/bootstrap.bundle.js.map - -
+[25-06-2024 21:10:09540 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] Sending file. Request path: '"/lib/bootstrap/dist/js/bootstrap.bundle.js.map"'. Physical path: '"C:\Users\ina_z\source\repos\InalandBooking\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map"'
+[25-06-2024 21:10:09544 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/1.1 GET https://localhost:5000/lib/bootstrap/dist/js/bootstrap.bundle.js.map - - - 200 425643 text/plain 223.2389ms
+[25-06-2024 21:10:11081 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/Account/Logout - -
+[25-06-2024 21:10:11093 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"405 HTTP Method Not Supported"'
+[25-06-2024 21:10:11096 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"405 HTTP Method Not Supported"'
+[25-06-2024 21:10:11098 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/Account/Logout - - - 405 0 - 17.1217ms
+[25-06-2024 21:10:12750 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 21:10:12759 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 9.0550ms
+[25-06-2024 21:10:13750 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/Home/Privacy - -
+[25-06-2024 21:10:13757 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"InalandBooking.Controllers.HomeController.Privacy (InalandBooking)"'
+[25-06-2024 21:10:13760 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Privacy\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Privacy()" on controller "InalandBooking.Controllers.HomeController" ("InalandBooking").
+[25-06-2024 21:10:13764 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Privacy".
+[25-06-2024 21:10:13771 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Privacy" executed in 6.9226ms.
+[25-06-2024 21:10:13774 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "InalandBooking.Controllers.HomeController.Privacy (InalandBooking)" in 10.2289ms
+[25-06-2024 21:10:13775 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"InalandBooking.Controllers.HomeController.Privacy (InalandBooking)"'
+[25-06-2024 21:10:13777 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/Home/Privacy - - - 200 - text/html;+charset=utf-8 26.2571ms
+[25-06-2024 21:10:13781 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 21:10:13781 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_vs/browserLink - -
+[25-06-2024 21:10:13783 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 1.8439ms
+[25-06-2024 21:10:13832 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 50.4890ms
+[25-06-2024 21:10:14212 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/ - -
+[25-06-2024 21:10:14215 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 21:10:14216 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "InalandBooking.Controllers.HomeController" ("InalandBooking").
+[25-06-2024 21:10:14218 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Index".
+[25-06-2024 21:10:14220 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Index" executed in 1.4108ms.
+[25-06-2024 21:10:14221 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "InalandBooking.Controllers.HomeController.Index (InalandBooking)" in 3.0472ms
+[25-06-2024 21:10:14223 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 21:10:14224 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/ - - - 200 - text/html;+charset=utf-8 12.5203ms
+[25-06-2024 21:10:14226 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 21:10:14226 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_vs/browserLink - -
+[25-06-2024 21:10:14227 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 1.5467ms
+[25-06-2024 21:10:14269 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 42.7777ms
+[25-06-2024 21:15:43263 +03:00 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager ] User profile is available. Using '"C:\Users\ina_z\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+[25-06-2024 21:15:43665 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "https://localhost:5000"
+[25-06-2024 21:15:43665 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "http://localhost:5001"
+[25-06-2024 21:15:43670 +03:00 Microsoft.Hosting.Lifetime ] Application started. Press Ctrl+C to shut down.
+[25-06-2024 21:15:43672 +03:00 Microsoft.Hosting.Lifetime ] Hosting environment: "Development"
+[25-06-2024 21:15:43673 +03:00 Microsoft.Hosting.Lifetime ] Content root path: "C:\Users\ina_z\source\repos\InalandBooking\"
+[25-06-2024 21:15:45620 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/ - -
+[25-06-2024 21:15:45893 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 21:15:45953 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "InalandBooking.Controllers.HomeController" ("InalandBooking").
+[25-06-2024 21:15:45978 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Index".
+[25-06-2024 21:15:46096 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Index" executed in 123.2624ms.
+[25-06-2024 21:15:46108 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 21:15:46112 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "InalandBooking.Controllers.HomeController.Index (InalandBooking)" in 156.1503ms
+[25-06-2024 21:15:46115 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 21:15:46120 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 11.9112ms
+[25-06-2024 21:15:46131 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/ - - - 200 - text/html;+charset=utf-8 518.5575ms
+[25-06-2024 21:15:47099 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_vs/browserLink - -
+[25-06-2024 21:15:47186 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 86.7481ms
+[25-06-2024 21:15:47266 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/1.1 GET https://localhost:5000/lib/bootstrap/dist/js/bootstrap.bundle.js.map - -
+[25-06-2024 21:15:47324 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] Sending file. Request path: '"/lib/bootstrap/dist/js/bootstrap.bundle.js.map"'. Physical path: '"C:\Users\ina_z\source\repos\InalandBooking\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map"'
+[25-06-2024 21:15:47344 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/1.1 GET https://localhost:5000/lib/bootstrap/dist/js/bootstrap.bundle.js.map - - - 200 425643 text/plain 77.4329ms
+[25-06-2024 21:18:10595 +03:00 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager ] User profile is available. Using '"C:\Users\ina_z\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+[25-06-2024 21:18:10921 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "https://localhost:5000"
+[25-06-2024 21:18:10923 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "http://localhost:5001"
+[25-06-2024 21:18:10928 +03:00 Microsoft.Hosting.Lifetime ] Application started. Press Ctrl+C to shut down.
+[25-06-2024 21:18:10929 +03:00 Microsoft.Hosting.Lifetime ] Hosting environment: "Development"
+[25-06-2024 21:18:10930 +03:00 Microsoft.Hosting.Lifetime ] Content root path: "C:\Users\ina_z\source\repos\InalandBooking\"
+[25-06-2024 21:18:12599 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/ - -
+[25-06-2024 21:18:12819 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 21:18:12871 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "InalandBooking.Controllers.HomeController" ("InalandBooking").
+[25-06-2024 21:18:12897 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Index".
+[25-06-2024 21:18:13016 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Index" executed in 125.6653ms.
+[25-06-2024 21:18:13023 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 21:18:13027 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "InalandBooking.Controllers.HomeController.Index (InalandBooking)" in 152.8155ms
+[25-06-2024 21:18:13029 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 21:18:13034 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 10.2149ms
+[25-06-2024 21:18:13047 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/ - - - 200 - text/html;+charset=utf-8 453.7796ms
+[25-06-2024 21:18:14601 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_vs/browserLink - -
+[25-06-2024 21:18:14687 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 85.6453ms
+[25-06-2024 21:18:14776 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/1.1 GET https://localhost:5000/lib/bootstrap/dist/js/bootstrap.bundle.js.map - -
+[25-06-2024 21:18:14845 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] Sending file. Request path: '"/lib/bootstrap/dist/js/bootstrap.bundle.js.map"'. Physical path: '"C:\Users\ina_z\source\repos\InalandBooking\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map"'
+[25-06-2024 21:18:14851 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/1.1 GET https://localhost:5000/lib/bootstrap/dist/js/bootstrap.bundle.js.map - - - 200 425643 text/plain 74.2637ms
+[25-06-2024 21:22:11582 +03:00 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager ] User profile is available. Using '"C:\Users\ina_z\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+[25-06-2024 21:22:11917 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "https://localhost:5000"
+[25-06-2024 21:22:11918 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "http://localhost:5001"
+[25-06-2024 21:22:11923 +03:00 Microsoft.Hosting.Lifetime ] Application started. Press Ctrl+C to shut down.
+[25-06-2024 21:22:11924 +03:00 Microsoft.Hosting.Lifetime ] Hosting environment: "Development"
+[25-06-2024 21:22:11925 +03:00 Microsoft.Hosting.Lifetime ] Content root path: "C:\Users\ina_z\source\repos\InalandBooking\"
+[25-06-2024 21:22:13678 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/ - -
+[25-06-2024 21:22:14274 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 21:22:14339 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "InalandBooking.Controllers.HomeController" ("InalandBooking").
+[25-06-2024 21:22:14366 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Index".
+[25-06-2024 21:22:14556 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Index" executed in 186.5849ms.
+[25-06-2024 21:22:14563 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 21:22:14576 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "InalandBooking.Controllers.HomeController.Index (InalandBooking)" in 233.3157ms
+[25-06-2024 21:22:14578 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_vs/browserLink - -
+[25-06-2024 21:22:14579 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 21:22:14583 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 19.2236ms
+[25-06-2024 21:22:14598 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/ - - - 200 - text/html;+charset=utf-8 930.6146ms
+[25-06-2024 21:22:14711 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 133.0199ms
+[25-06-2024 21:22:14770 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/1.1 GET https://localhost:5000/lib/bootstrap/dist/js/bootstrap.bundle.js.map - -
+[25-06-2024 21:22:14816 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] Sending file. Request path: '"/lib/bootstrap/dist/js/bootstrap.bundle.js.map"'. Physical path: '"C:\Users\ina_z\source\repos\InalandBooking\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map"'
+[25-06-2024 21:22:14820 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/1.1 GET https://localhost:5000/lib/bootstrap/dist/js/bootstrap.bundle.js.map - - - 200 425643 text/plain 49.7528ms
+[25-06-2024 21:22:16635 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/Home/Privacy - -
+[25-06-2024 21:22:16780 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"InalandBooking.Controllers.HomeController.Privacy (InalandBooking)"'
+[25-06-2024 21:22:16789 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Privacy\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Privacy()" on controller "InalandBooking.Controllers.HomeController" ("InalandBooking").
+[25-06-2024 21:22:16813 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Privacy".
+[25-06-2024 21:22:16818 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Privacy" executed in 5.9074ms.
+[25-06-2024 21:22:16820 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "InalandBooking.Controllers.HomeController.Privacy (InalandBooking)" in 8.1477ms
+[25-06-2024 21:22:16826 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"InalandBooking.Controllers.HomeController.Privacy (InalandBooking)"'
+[25-06-2024 21:22:16840 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/Home/Privacy - - - 200 - text/html;+charset=utf-8 204.6733ms
+[25-06-2024 21:22:16876 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 21:22:16876 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_vs/browserLink - -
+[25-06-2024 21:22:16882 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 6.1736ms
+[25-06-2024 21:22:16931 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 55.1909ms
+[25-06-2024 21:22:17395 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/ - -
+[25-06-2024 21:22:17400 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 21:22:17402 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "InalandBooking.Controllers.HomeController" ("InalandBooking").
+[25-06-2024 21:22:17405 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executing ViewResult, running view "Index".
+[25-06-2024 21:22:17407 +03:00 Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor ] Executed ViewResult - view "Index" executed in 2.2423ms.
+[25-06-2024 21:22:17409 +03:00 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker ] Executed action "InalandBooking.Controllers.HomeController.Index (InalandBooking)" in 4.5879ms
+[25-06-2024 21:22:17411 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"InalandBooking.Controllers.HomeController.Index (InalandBooking)"'
+[25-06-2024 21:22:17413 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/ - - - 200 - text/html;+charset=utf-8 17.7100ms
+[25-06-2024 21:22:17415 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+[25-06-2024 21:22:17415 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting HTTP/2 GET https://localhost:5000/_vs/browserLink - -
+[25-06-2024 21:22:17417 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 1.6548ms
+[25-06-2024 21:22:17444 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished HTTP/2 GET https://localhost:5000/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 29.1145ms
