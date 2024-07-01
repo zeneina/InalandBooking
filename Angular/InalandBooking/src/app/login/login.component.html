@@ -1,0 +1,13 @@
+<h2>Σύνδεση</h2>
+
+<form (ngSubmit)="login()">
+  <div>
+    <label for="username">Όνομα Χρήστη:</label>
+    <input type="text" id="username" name="username" (ngModel)="username">
+  </div>
+  <div>
+    <label for="password">Κωδικός Πρόσβασης:</label>
+    <input type="password" id="password" name="password" (ngModel)]="password">
+  </div>
+  <button type="submit">Σύνδεση</button>
+</form>

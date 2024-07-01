@@ -1,0 +1,14 @@
+<!-- search.component.html -->
+<h2>Αναζήτηση</h2>
+<form (submit)="searchCountries()">
+  <label for="searchTerm">Αναζήτηση Χώρας:</label>
+  <input type="text" id="searchTerm" name="searchTerm" (ngModel)="searchTerm">
+  <button type="submit">Αναζήτηση</button>
+</form>
+
+<div *NgIf="countries.length > 0">
+  <h3>Αποτελέσματα Αναζήτησης</h3>
+  <ul>
+    <li *NgFor="let country of countries">{{ country.name }}</li>
+  </ul>
+</div>

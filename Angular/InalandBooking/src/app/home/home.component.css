@@ -1,0 +1,131 @@
+.home-container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    font-family: 'Poiret One', cursive;
+  }
+  
+  .home-container h2 {
+    font-size: 32px;
+    color: #2a066e;
+    margin-bottom: 10px;
+  }
+  
+  .home-container p {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #333;
+  }
+  
+  .search-form {
+    margin-bottom: 20px;
+  }
+  
+  .search-form label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #2a066e;
+  }
+  
+  .search-form input[type="text"],
+  .search-form input[type="date"] {
+    width: calc(100% - 12px);
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin-bottom: 10px;
+  }
+  
+  .search-form button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #2a066e;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .search-form button:hover {
+    background-color: #4c1a9c;
+  }
+  
+  .destination-gallery {
+    margin-bottom: 20px;
+  }
+  
+  .destination-gallery h3 {
+    font-size: 24px;
+    color: #2a066e;
+    margin-bottom: 10px;
+  }
+  
+  .destination-card {
+    margin-bottom: 10px;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .destination-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px 8px 0 0;
+  }
+  
+  .destination-card p {
+    padding: 10px;
+    background-color: #f9f9f9;
+    color: #333;
+    font-size: 16px;
+  }
+  
+  .reviews-section {
+    margin-bottom: 20px;
+  }
+  
+  .reviews-section h3 {
+    font-size: 24px;
+    color: #2a066e;
+    margin-bottom: 10px;
+  }
+  
+  .review {
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-left: 4px solid #2a066e;
+  }
+  
+  .review p {
+    font-size: 16px;
+    color: #333;
+  }
+  
+  .special-offers {
+    margin-bottom: 20px;
+  }
+  
+  .special-offers h3 {
+    font-size: 24px;
+    color: #2a066e;
+    margin-bottom: 10px;
+  }
+  
+  .offer {
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-left: 4px solid #2a066e;
+  }
+  
+  .offer p {
+    font-size: 16px;
+    color: #333;
+  }
+  

@@ -1,0 +1,17 @@
+<!-- register.component.html -->
+<h2>Εγγραφή</h2>
+<form formGroup="registerForm" (ngSubmit)="register()">
+  <div class="form-group">
+    <label for="username">Όνομα Χρήστη:</label>
+    <input type="text" id="username" formControlName="username">
+  </div>
+  <div class="form-group">
+    <label for="email">Email:</label>
+    <input type="email" id="email" formControlName="email">
+  </div>
+  <div class="form-group">
+    <label for="password">Κωδικός:</label>
+    <input type="password" id="password" formControlName="password">
+  </div>
+  <button type="submit" [disabled]="!registerForm.valid">Εγγραφή</button>
+</form>
